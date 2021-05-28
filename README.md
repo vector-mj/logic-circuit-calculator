@@ -35,6 +35,7 @@
     o14=(a1@a4)+a2*(a5+(a3@a4))
   </pre>
     - full example for input file:
+      <pre>
         operation:
         * and
         + or
@@ -45,6 +46,7 @@
         function:
         o1=(~a1+~a2)@~a3
         o2=(a1@a4)+a2*(a5+(a3@a4))
+      </pre>
     ## result is :
     ![alt text](https://github.com/vector-mj/logic-circuit-calculator/blob/master/photos/1.PNG?raw=true)
     ![alt text](https://github.com/vector-mj/logic-circuit-calculator/blob/master/photos/2.PNG?raw=true)
