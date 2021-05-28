@@ -49,10 +49,13 @@
       </pre>
 ## result is :
 ![alt text](https://github.com/vector-mj/logic-circuit-calculator/blob/master/photos/1.PNG?raw=true)
+
 ![alt text](https://github.com/vector-mj/logic-circuit-calculator/blob/master/photos/2.PNG?raw=true)
-![alt text](https://github.com/vector-mj/logic-circuit-calculator/blob/master/photos/3.PNG?raw=true)
+
 ![alt text](https://github.com/vector-mj/logic-circuit-calculator/blob/master/photos/4.PNG?raw=true)
+
 ![alt text](https://github.com/vector-mj/logic-circuit-calculator/blob/master/photos/5.PNG?raw=true)
+
 ![alt text](https://github.com/vector-mj/logic-circuit-calculator/blob/master/photos/6.PNG?raw=true)
       
     
