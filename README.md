@@ -4,11 +4,13 @@
 
 #### in input.txt file:
   - you can make your symbol for calculate:
+  <pre>
      operation:
      * and
      + or
      ~ not
      @ xor
+  </pre>
   - you can make your values name like this:
   
     value:
