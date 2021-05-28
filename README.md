@@ -1,6 +1,6 @@
 # logic-circuit-calculator
 
-#### this is a calculator for solve all logic circuit problems with ".txt" and ".xml" outputs
+#### This is a calculator for solve all logic circuit problems with ".txt" and ".xml" outputs
 
 #### in input.txt file:
   - you can make your symbol for calculate:
@@ -47,7 +47,7 @@
         o1=(~a1+~a2)@~a3
         o2=(a1@a4)+a2*(a5+(a3@a4))
       </pre>
-## result is :
+## Result :
 ![alt text](https://github.com/vector-mj/logic-circuit-calculator/blob/master/photos/1.PNG?raw=true)
 
 ![alt text](https://github.com/vector-mj/logic-circuit-calculator/blob/master/photos/2.PNG?raw=true)
