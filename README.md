@@ -1,6 +1,6 @@
 # logic-circuit-calculator
 
-#### this is a calculator for solve all logic circuit problems
+#### this is a calculator for solve all logic circuit problems with ".txt" and ".xml" outputs
 
 #### in input.txt file:
   - you can make your symbol for calculate:
